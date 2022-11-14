@@ -1,5 +1,7 @@
+package lab.designpatterns.numberwords;
+
 import java.util.*;
-class Number2Words
+class Main
 {
     public static void main(String args[])
     {
