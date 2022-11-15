@@ -74,34 +74,6 @@ class Main
                     }
                     nn=0;
                 }
-                if (nnn==5)
-                {
-                    if(c!=0){
-                        z="lakh "+z;
-                    }
-                    nn=0;
-                }
-                if (nnn==7)
-                {
-                    if(c!=0){
-                        z="crore "+z;
-                    }
-                    nn=0;
-                }
-                if (nnn==9)
-                {
-                    if(c!=0){
-                        z="arab "+z;
-                    }
-                    nn=0;
-                }
-                if (nnn==11)
-                {
-                    if(c!=0){
-                        z="kharab "+z;
-                    }
-                    nn=0;
-                }
 
 
                 //Main
